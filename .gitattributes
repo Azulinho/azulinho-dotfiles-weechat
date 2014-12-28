@@ -1,0 +1,4 @@
+*.conf filter=crypto
+*.log filter=crypto
+*.pem filter=crypto
+*.weechatlog filter=crypto
